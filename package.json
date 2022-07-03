@@ -1,0 +1,14 @@
+{
+  "name": "diabeticapp",
+  "version": "1.0.0",
+  "description": "An application to allow users to upload, edit, view, and delete blood glucose results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guy Marshall",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
